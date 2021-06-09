@@ -4,7 +4,7 @@ jobs:
   Build:
     runs-on: ubuntu-latest
     env:
-      CODECOV_TOKEN='29bdced7-ae9e-4d5c-a414-6f47b31364ea'
+      CODECOV_TOKEN='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'
     steps:
       - run: GO_FILES=$(find . -iname '*.go' -type f) # All the .go files, excluding .github
       - run: |
