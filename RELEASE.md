@@ -1,5 +1,5 @@
 
-# Change Log
+# Release Change Log
 All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
@@ -20,7 +20,7 @@ straightforward as possible.
 
 ### Fixed
 
-## [PULL REQUEST LABEL]
+## [1.2.4] - 2017-03-15
 
 Here we would have the update steps for 1.2.4 for people to follow.
 
@@ -37,7 +37,7 @@ Here we would have the update steps for 1.2.4 for people to follow.
   PATCH Add logic to runsheet teaser delete to delete corresponding
   schedule cards.
 
-## [PULL REQUEST LABEL]
+## [1.2.3] - 2017-03-14
 
 ### Added
 
