@@ -3,7 +3,7 @@
 
 ## MAINTAINER(S) NAME !!! (also the squad leader if it's possible)
 
-[![.github/workflows/go.yml](https://github.com/Marcus1911/shiploader/actions/workflows/go.yml/badge.svg)](https://github.com/sandriwebera/general-standards/actions/workflows/ci.yml)
+[![Code lint](https://github.com/sandriwebera/general-standards/actions/workflows/go.yml/badge.svg)](https://github.com/sandriwebera/general-standards/actions/workflows/go.yml)
 [![codecov](https://codecov.io/gh/Marcus1911/shiploader/branch/main/graph/badge.svg?token=DDYNT8YXJM)](https://codecov.io/gh/Marcus1911/shiploader)
 ![GitHub branch checks state](https://img.shields.io/github/checks-status/sandriwebera/general-standards/main)
 
